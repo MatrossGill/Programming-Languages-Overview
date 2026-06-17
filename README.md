@@ -1,6 +1,6 @@
 # Useful Tools for Students
 
-A collaborative guide by [Gilbert Kiprono, Gladwell, Thomas].
+A collaborative guide by [Gilbert Kiprono, Gladwell, George].
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -26,7 +26,7 @@ JavaScript is a general-purpose programming language, mainly used for web develo
 
 ## Python
 
-*Written* by *Timothy*
+*Written* by *George*
 
 Python is a high-level, easily read, easily understood programming language. It is extensively used in data science, AI, web development, automation, and scientific computing.
 
